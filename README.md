@@ -37,10 +37,8 @@ admin.site.register(Car,CarAdmin)
 # Create your models here.
 ```
 ## OUTPUT
-Include your output
-ORM2/Screenshot 2025-11-19 114350.png
-ORM2/Screenshot 2025-11-19 114912.png
-
+![alt text](<Screenshot 2025-11-19 114350.png>) 
+![alt text](<Screenshot 2025-11-19 114912.png>)
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
